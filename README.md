@@ -1,0 +1,5 @@
+# drupal
+
+## License
+
+[MIT](./LICENSE)
